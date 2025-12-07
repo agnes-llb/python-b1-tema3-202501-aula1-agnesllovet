@@ -28,3 +28,9 @@ def test_dividir():
 def test_division_por_cero():
     with pytest.raises(ZeroDivisionError):
         ej3a1_operations.divide(8, 0),  "The zero division operation does not work"
+
+#test_sumar()
+#test_restar()
+#test_multiplicar()
+#test_dividir()
+#test_division_por_cero()

@@ -30,3 +30,10 @@ def test_triangle_area():
 def test_circle_area():
     result = geometry.circle_area(5)
     assert round(result, 2) == 78.54,  "The circle_area operation does not work"
+
+#test_square_root()
+#test_power()
+#test_square_area()
+#test_rectangle_area()
+#test_triangle_area()
+#test_circle_area()
